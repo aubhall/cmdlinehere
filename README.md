@@ -23,3 +23,5 @@ Readme.txt - is the orginal readme file from the cmdline.zip file
 cmdline.zip - is the orginal archive you would download
 pad_file.* - the htm and xml are what you needed for Simtel back in the day.
 Setup.exe - the original installer file
+
+Planned update to this is when I locate the orginal Inno Setup file for the installer.
